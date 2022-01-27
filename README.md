@@ -13,6 +13,14 @@ Scratch and ScratchJr are trademarks of Massachusetts Institute of Technology, w
 
 Το δικό μου fork προσθέτει μόνο την Ελληνική μετάφραση σε αυτή την εξαιρετική εφαρμογή.
 
+### Χρήση αυτό του repository
+* <tt>git clone ...</tt>
+* <tt>cd ...</tt>
+* <tt>npm install</tt>
+* <tt>npm run publish</tt> (για δημιουργία deb αρχείου)
+* <tt>npm run start</tt> (για εκτέλεση από τοπικό φάκελο)
+
+
 ## The geeky stuff
 
 This repository contains a port of ScratchJr for Desktop. 
