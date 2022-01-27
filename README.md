@@ -4,6 +4,14 @@ Scratch and ScratchJr are trademarks of Massachusetts Institute of Technology, w
 ## Downloads 
 [Download ScratchJr for Desktop](https://jfo8000.github.io/ScratchJr-Desktop/)
 
+## Μετατροπές από ale3andro
+
+Σε [αυτό το repository](https://github.com/leonskb4/ScratchJr-Desktop) ο [leonskb4](https://github.com/leonskb4) ετοίμασε ένα fork του αρχικού ScratchJr Desktop
+για Ubuntu 20.04 (και λοιπές νεότερες διανομές) που δεν έχει το πρόβλημα των dependencies από παλιότερες διανομές. Περισσότερες πληροφορίες σε [αυτό το thread](https://github.com/jfo8000/ScratchJr-Desktop/issues/44).
+
+Το παραπάνω fork λειτουργεί άψογα σε Ubuntu 20.04 και μάλιστα λύνει ταυτόχρονα και ένα ακόμα μικρό θεματάκι της αρχικής έκδοσης, το ότι δεν υποστήριζε full screen σε μερικές αναλύσεις οθόνης.
+
+Το δικό μου fork προσθέτει μόνο την Ελληνική μετάφραση σε αυτή την εξαιρετική εφαρμογή.
 
 ## The geeky stuff
 
