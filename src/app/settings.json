@@ -20,6 +20,7 @@
     "defaultLocale": "en",
     "defaultLocaleShort": "en",
     "supportedLocales": {
+        "Ελληνικά": "el",
         "Català": "ca",
         "Deutsch": "de",
         "English": "en",
