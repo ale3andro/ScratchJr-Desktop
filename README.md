@@ -22,8 +22,9 @@ Scratch and ScratchJr are trademarks of Massachusetts Institute of Technology, w
 
 ### Δημιουργία setup αρχείου εγκατάστασης για Windows
 
+```
 npx electron-builder --windows nsis --x64
-
+```
 
 ## The geeky stuff
 
