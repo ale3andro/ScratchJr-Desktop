@@ -20,6 +20,10 @@ Scratch and ScratchJr are trademarks of Massachusetts Institute of Technology, w
 * <tt>npm run publish</tt> (για δημιουργία deb αρχείου)
 * <tt>npm run start</tt> (για εκτέλεση από τοπικό φάκελο)
 
+### Δημιουργία setup αρχείου εγκατάστασης για Windows
+
+npx electron-builder --windows nsis --x64
+
 
 ## The geeky stuff
 
